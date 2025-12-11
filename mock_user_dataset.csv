@@ -1,0 +1,51 @@
+user_id,age,city,lat,lon,interests,lifestyle,pref_min_age,pref_max_age,pref_max_distance_km
+1,38,Mumbai,19.076,72.8777,"['coding', 'foodie', 'reading']","['night_owl', 'minimalist', 'luxury']",31,45,100
+2,19,Bengaluru,12.9716,77.5946,"['anime', 'fitness', 'reading']","['introvert', 'minimalist', 'fitness_focused', 'night_owl', 'luxury']",18,26,50
+3,18,Mumbai,19.076,72.8777,"['football', 'nature', 'foodie', 'anime']","['night_owl', 'luxury', 'fitness_focused', 'early_bird']",18,23,50
+4,37,Chennai,13.0827,80.2707,"['gaming', 'cricket', 'movies', 'AI/ML', 'fitness']","['outdoorsy', 'homebody', 'introvert', 'minimalist', 'early_bird']",34,40,20
+5,27,Delhi,28.7041,77.1025,"['reading', 'movies', 'finance']","['homebody', 'extrovert', 'luxury', 'minimalist']",23,31,50
+6,40,Ahmedabad,23.0225,72.5714,"['travel', 'reading', 'hardware']","['outdoorsy', 'minimalist', 'introvert', 'homebody']",35,45,10
+7,25,Chennai,13.0827,80.2707,"['nature', 'finance', 'foodie']","['luxury', 'homebody', 'introvert']",19,31,100
+8,38,Delhi,28.7041,77.1025,"['music', 'foodie', 'hardware', 'movies', 'startups', 'AI/ML']","['luxury', 'fitness_focused', 'minimalist', 'extrovert', 'night_owl']",34,42,500
+9,33,Hyderabad,17.385,78.4867,"['gaming', 'movies', 'music']","['fitness_focused', 'night_owl', 'luxury', 'introvert', 'outdoorsy']",27,39,500
+10,26,Delhi,28.7041,77.1025,"['coding', 'movies', 'foodie', 'finance', 'nature', 'travel', 'gaming']","['extrovert', 'foodie_life', 'early_bird', 'homebody']",21,31,500
+11,23,Bengaluru,12.9716,77.5946,"['movies', 'photography', 'fitness', 'anime', 'travel', 'finance', 'cricket']","['homebody', 'foodie_life', 'early_bird', 'minimalist', 'extrovert']",18,28,20
+12,19,Chennai,13.0827,80.2707,"['anime', 'hardware', 'design', 'football']","['extrovert', 'luxury', 'foodie_life', 'outdoorsy', 'night_owl']",18,24,500
+13,37,Kolkata,22.5726,88.3639,"['fitness', 'hardware', 'photography', 'AI/ML', 'nature', 'football']","['minimalist', 'foodie_life', 'night_owl', 'luxury']",33,41,10
+14,28,Bengaluru,12.9716,77.5946,"['hardware', 'reading', 'AI/ML']","['early_bird', 'introvert', 'night_owl']",25,31,50
+15,20,Ahmedabad,23.0225,72.5714,"['reading', 'foodie', 'design', 'movies', 'AI/ML', 'anime', 'startups']","['foodie_life', 'fitness_focused', 'introvert']",18,23,10
+16,39,Bengaluru,12.9716,77.5946,"['startups', 'football', 'AI/ML', 'reading', 'design', 'hardware']","['night_owl', 'early_bird', 'fitness_focused', 'homebody', 'extrovert']",36,42,20
+17,24,Hyderabad,17.385,78.4867,"['hardware', 'cricket', 'music', 'fitness']","['foodie_life', 'introvert', 'night_owl', 'minimalist']",18,31,10
+18,19,Mumbai,19.076,72.8777,"['coding', 'anime', 'reading', 'AI/ML', 'fitness', 'design', 'finance']","['early_bird', 'extrovert', 'fitness_focused', 'luxury']",18,25,50
+19,32,Mumbai,19.076,72.8777,"['football', 'design', 'music', 'movies', 'AI/ML']","['luxury', 'minimalist', 'early_bird']",27,37,10
+20,19,Chennai,13.0827,80.2707,"['design', 'AI/ML', 'travel', 'coding', 'foodie', 'gaming', 'anime']","['night_owl', 'introvert', 'fitness_focused', 'early_bird', 'outdoorsy']",18,23,500
+21,37,Delhi,28.7041,77.1025,"['anime', 'football', 'nature']","['homebody', 'introvert', 'outdoorsy']",31,43,20
+22,39,Chennai,13.0827,80.2707,"['cricket', 'nature', 'anime', 'coding', 'reading']","['minimalist', 'introvert', 'outdoorsy']",35,43,50
+23,20,Delhi,28.7041,77.1025,"['startups', 'photography', 'travel', 'reading']","['minimalist', 'early_bird', 'outdoorsy', 'homebody', 'luxury']",18,24,50
+24,21,Delhi,28.7041,77.1025,"['hardware', 'music', 'foodie']","['introvert', 'homebody', 'luxury', 'minimalist', 'fitness_focused']",18,26,500
+25,33,Bengaluru,12.9716,77.5946,"['gaming', 'anime', 'football', 'design', 'music']","['homebody', 'extrovert', 'outdoorsy']",29,37,100
+26,35,Bengaluru,12.9716,77.5946,"['hardware', 'coding', 'movies', 'gaming', 'startups', 'anime']","['luxury', 'minimalist', 'extrovert', 'introvert']",31,39,10
+27,27,Chennai,13.0827,80.2707,"['gaming', 'startups', 'fitness', 'nature', 'movies']","['minimalist', 'fitness_focused', 'extrovert', 'night_owl']",23,31,20
+28,31,Mumbai,19.076,72.8777,"['travel', 'nature', 'football']","['extrovert', 'night_owl', 'fitness_focused', 'foodie_life']",28,34,100
+29,25,Mumbai,19.076,72.8777,"['cricket', 'startups', 'photography', 'football']","['early_bird', 'introvert', 'fitness_focused']",20,30,50
+30,20,Kolkata,22.5726,88.3639,"['startups', 'AI/ML', 'finance', 'nature', 'football']","['night_owl', 'outdoorsy', 'extrovert']",18,27,50
+31,19,Pune,18.5204,73.8567,"['football', 'startups', 'nature']","['minimalist', 'night_owl', 'fitness_focused', 'outdoorsy', 'luxury']",18,24,10
+32,40,Kolkata,22.5726,88.3639,"['coding', 'AI/ML', 'fitness', 'travel', 'design', 'gaming']","['homebody', 'night_owl', 'outdoorsy', 'foodie_life', 'extrovert']",34,46,50
+33,30,Pune,18.5204,73.8567,"['hardware', 'music', 'fitness', 'design', 'nature']","['extrovert', 'outdoorsy', 'fitness_focused', 'minimalist', 'early_bird']",25,35,50
+34,24,Ahmedabad,23.0225,72.5714,"['nature', 'cricket', 'AI/ML', 'reading', 'hardware', 'movies']","['extrovert', 'night_owl', 'outdoorsy', 'foodie_life', 'homebody']",18,31,50
+35,20,Bengaluru,12.9716,77.5946,"['photography', 'reading', 'fitness', 'anime']","['introvert', 'foodie_life', 'night_owl']",18,26,100
+36,38,Bengaluru,12.9716,77.5946,"['fitness', 'finance', 'design', 'hardware', 'movies', 'anime', 'nature']","['fitness_focused', 'introvert', 'extrovert']",31,45,100
+37,19,Kolkata,22.5726,88.3639,"['reading', 'movies', 'cricket', 'anime', 'finance', 'hardware', 'nature']","['luxury', 'minimalist', 'fitness_focused', 'foodie_life']",18,26,100
+38,23,Ahmedabad,23.0225,72.5714,"['cricket', 'foodie', 'reading', 'football', 'nature', 'music']","['introvert', 'outdoorsy', 'foodie_life', 'early_bird', 'homebody']",18,28,20
+39,26,Pune,18.5204,73.8567,"['nature', 'anime', 'music', 'AI/ML', 'movies']","['extrovert', 'introvert', 'night_owl', 'minimalist', 'fitness_focused']",21,31,500
+40,32,Bengaluru,12.9716,77.5946,"['gaming', 'fitness', 'football', 'AI/ML', 'finance', 'photography']","['fitness_focused', 'foodie_life', 'early_bird', 'extrovert', 'luxury']",26,38,100
+41,35,Pune,18.5204,73.8567,"['reading', 'design', 'hardware', 'music', 'fitness', 'AI/ML', 'coding']","['fitness_focused', 'extrovert', 'foodie_life', 'night_owl']",28,42,500
+42,18,Hyderabad,17.385,78.4867,"['coding', 'anime', 'football', 'AI/ML', 'design', 'reading']","['outdoorsy', 'fitness_focused', 'homebody']",18,22,100
+43,28,Chennai,13.0827,80.2707,"['finance', 'foodie', 'football', 'music', 'design']","['early_bird', 'minimalist', 'luxury', 'extrovert']",24,32,10
+44,38,Bengaluru,12.9716,77.5946,"['coding', 'reading', 'fitness']","['extrovert', 'introvert', 'luxury', 'minimalist', 'homebody']",35,41,500
+45,24,Chennai,13.0827,80.2707,"['foodie', 'startups', 'travel', 'photography', 'cricket', 'AI/ML']","['outdoorsy', 'night_owl', 'early_bird']",19,29,500
+46,39,Mumbai,19.076,72.8777,"['finance', 'fitness', 'anime', 'photography', 'startups', 'nature']","['outdoorsy', 'night_owl', 'early_bird']",34,44,500
+47,31,Pune,18.5204,73.8567,"['anime', 'AI/ML', 'nature', 'coding', 'football']","['night_owl', 'fitness_focused', 'homebody', 'foodie_life']",25,37,20
+48,31,Pune,18.5204,73.8567,"['AI/ML', 'foodie', 'design', 'reading']","['luxury', 'outdoorsy', 'homebody', 'fitness_focused', 'night_owl']",28,34,50
+49,32,Ahmedabad,23.0225,72.5714,"['cricket', 'finance', 'nature', 'coding']","['extrovert', 'foodie_life', 'introvert', 'luxury']",27,37,50
+50,26,Ahmedabad,23.0225,72.5714,"['foodie', 'coding', 'fitness', 'gaming', 'movies', 'startups', 'design']","['introvert', 'foodie_life', 'minimalist', 'luxury', 'early_bird']",23,29,50
