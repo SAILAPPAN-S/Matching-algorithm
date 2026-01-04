@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 # LOAD DATA
-def load_users(json_path="users.json"):
+def load_users(json_path="./Matching-algorithm/users.json"):
     with open(json_path, "r", encoding="utf-8") as f:
         return json.load(f)
 
@@ -139,7 +139,7 @@ def get_matches_for_single_user(users, target_id, top_k):
 
 
 def main():
-    users = load_users("users.json")
+    users = load_users("./Matching-algorithm/users.json")
     matches = get_matches_for_single_user(users, target_id=3, top_k=10)
 
     with open("top_matches.json", "w", encoding="utf-8") as f:

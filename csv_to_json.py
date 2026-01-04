@@ -2,7 +2,7 @@ import csv
 import json
 import ast
 
-INPUT_CSV = "mock_user_dataset.csv"
+INPUT_CSV = "./Matching-algorithm/mock_user_dataset.csv"
 OUTPUT_JSON = "users.json"
 
 def parse_list_field(value):
